@@ -28,6 +28,10 @@
                 0 32px 64px rgba(63, 63, 63, 0.082);
 }
 
+body {
+    @apply bg-[#ececec]
+}
+
 .removed {
     color: gray;
 }
